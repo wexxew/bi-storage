@@ -4,7 +4,7 @@ Bi-tree fastest storage for node.js
 #### Example ####
 
 ```javascript
-const BiStorage = require('./lib/bi-storage')
+const BiStorage = require('bi-storage')
 let storage = new BiStorage
 
 storage.set('testData', {test: 'Any type data'})
