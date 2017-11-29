@@ -1,0 +1,23 @@
+{
+  "name": "bi-storage",
+  "version": "1.0.0",
+  "description": "Fastest a bi-tree storage for node.js projects",
+  "main": "bi-storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wexxew/bi-storage.git"
+  },
+  "keywords": [
+    "bi-tree",
+    "storage"
+  ],
+  "author": "wexxew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wexxew/bi-storage/issues"
+  },
+  "homepage": "https://github.com/wexxew/bi-storage#readme"
+}
