@@ -1,6 +1,6 @@
 {
   "name": "bi-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fastest a bi-tree storage for node.js projects",
   "main": "bi-storage.js",
   "scripts": {
